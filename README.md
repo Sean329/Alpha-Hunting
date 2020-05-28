@@ -1,6 +1,6 @@
 # Alpha-Hunting
 
-## Project 1 - Overnight Returns and Firm-Specific Investor Sentiment
+### Project 1 - Overnight Returns and Firm-Specific Investor Sentiment
 
 Inspired by this research paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2554010
 
